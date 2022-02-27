@@ -27,8 +27,9 @@
  
 <div align="center">  
   <a href="https://www.linkedin.com/in/karine-miyaguti-042a07212/" target="_blank"><img height="30" width="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badgerounded&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/870c1e9c4b6a57d86c4dd9a16a8a75b1.gif" width="100" height="150" border="0" alt="https://picasion.com/" /></a>
+  </div>
   
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/870c1e9c4b6a57d86c4dd9a16a8a75b1.gif" width="100" height="150" border="0" alt="https://picasion.com/" /></a>
-</div>
+   ![Snake animation](https://github.com/AndressaMiyaguti/AndressaMiyaguti/output/github-contribution-grid-snake.svg)
+ 
   
